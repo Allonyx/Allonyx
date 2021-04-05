@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
 - Technology - Exercise - Fothographie - Books - Video Games - Evolution
 - 🌱 I’m currently learning ...
-- English - ADSI(Analsis y desarrollo de los sistemas de infomacion) 
+- English and ¨Data analys¨ ADSI(Analsis y desarrollo de los sistemas de infomacion) 
 
 
 <!---
